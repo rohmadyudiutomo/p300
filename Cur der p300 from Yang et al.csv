@@ -1,0 +1,136 @@
+Name ,SMILES ,IC50 (nM) ,Kd (nM) ,Delta Tm (Åé) 
+CHEMBL1092740 ,CC(=O)Nc1ccc(/N=N/c2c(S(=O)( =O)O)cc3cc(NC(=O)Nc4ccc5c(O)c(/N=N/c6ccccc6)c(S(=O)(=O)O)cc5c4)ccc3c2O)cc1 ,13700,,
+CHEMBL3774787 ,N=C(N)NCCC[C@H]1NC(=O)/C(=C/c2ccc(O)c(OCC[C@H](NC(=O)C[C@@](O)(CC(=O)N[C@H](CC(=O)O)C(=O)O)C(=O)O)C(=O)O)c2)NC1=O ,11,,
+1i ,O=C1/C(=C/c2cc(Br)c(O)c(Br)c2)CCC/C1=C\c1cc(Br)c(O)c(Br)c1 ,2300,,
+CHEMBL502089 ,COc1cc(C(=O)C2=C3OC(C)(C)[C@@H](CC=C(C)C)C[C@@]34C[C@@H](CC=C(C)C)C(C)(C)[C@@](CC=C(C)C)(C2=O)C4=O)ccc1O ,5000,,
+CHEMBL3775787 ,COc1ccc(C(=O)C2=C3OC(C)(C)[C@H](CC=C(C)C)C[C@]34C[C@@H](/C=C\C(C)C)C(C)(C)[C@](CC=C(C)C)(C2=O)C4=O)cc1O ,5000,,
+CHEMBL3774491 ,N=C(N)NCCC[C@@H]1NC(=O)/C(=C/c2ccc(O)c(OCC[C@@H](NC(=O)C[C@](O)(CC(=O)O)C(=O)O)C(=O)O)c2)NC1=O ,22,,
+CHEMBL500215 ,COc1ccc(C(=O)C2=C3OC(C)(C)[ C@@H](CC=C(C)C)C[C@]34C[C@@H](CC=C(C)C)C(C)(C)[C@@](CC=C(C)C)(C4)C2=O)cc1O,,1400,
+CHEMBL502489 ,C=C(C)[C@@H](CC=C(C)C)C[C@]12C[C@@H](CC=C(C)C)C(C)(C)[C@@](CC=C(C)C)(C(=O)C(C(=O)c3ccc(O)c(O)c3)=C1O)C2=O ,1700,1800,
+CHEMBL458934 ,CC(C)=CC[C@H]1C[C@]23C[C@H](CC=C(C)C)C(C)(C)[C@@](CC=C(C)C)(C(=O)C(C(=O)c4ccc(O)c(O)c4)=C2OC1(C)C)C3=O ,,1100,
+CHEMBL3774884 ,C=C(C)[C@@H](/C=C/C(C)C)C[C@]12C[C@H](/C=C\C(C)C)C(C)(C)[C@@](CC=C(C)C)(C(=O)C(C(=O)c3ccc(O)c(O)c3)=C1O)C2=O ,7000,,
+23,CNC(=O)Nc1ccc2c(c1)CC[C@@] 21OC(=O)N(CC(=O)N(Cc2ccc(F) cc2)[C@@H](C2CC2)C(F)(F)F)C1=O ,32,,
+1d ,O=C1/C(=C/c2ccc(O)c(I)c2)CCC/C1=C\c1ccc(O)c(I)c1 ,8100,,
+CHEMBL2171189 ,O=C(c1ccc(O)c(NC(=O)c2cccc3c cccc23)c1)c1ccc(O)c(NC(=O)c2cccc3ccccc23)c1 ,15200,,
+24,CNC(=O)Nc1ccc2c(c1)CC[C@@]21OC(=O)N(CC(=O)N(Cc2ccc(F) cc2)[C@@H](C)C(F)(F)F)C1=O ,60,,
+18,C[C@H](C1CC1)N(Cc1ccccc1)C( =O)CN1C(=O)N[C@]2(CCc3cc(NS(C)(=O)=O)ccc32)C1=O ,16000,,
+CHEMBL3622373 ,COc1ccc(CCc2nc3cc(-c4c(C)noc4C)ccc3n2C[C@@H](C)N2CCOCC2)cc1Cl ,,32,10.4
+22,CNC(=O)Nc1ccc2c(c1)CC[C@@]21OC(=O)N(CC(=O)N(Cc2ccccc2)[C@H](C)C2CC2)C1=O ,25,,
+21,CNC(=O)Nc1ccc2c(c1)CC[C@@]21OC(=O)N(CC(=O)N(Cc2ccccc2)[C@H](C)C2CC2)C1=O ,121,,
+17,COC(=O)Nc1ccc2c(c1)CC[C@@]21NC(=O)N(CC(=O)N(Cc2ccccc2)[C@H](C)C2CC2)C1=O ,1000,,
+20,CNC(=O)Nc1ccc2c(c1)CC[C@@]21NC(=O)N(CC(=O)N(Cc2ccccc2)[C@H](C)C2CC2)C1=O ,170,,
+19,CNC(=O)Nc1ccc2c(c1)CC[C@@]21NC(=O)N(CC(=O)N(Cc2ccccc2)[C@H](C)C2CC2)C1=O ,240,,
+CHEMBL3799977 ,C#CCNC(=O)c1ccc(N2N=C(C)/C(=C/c3ccc(-c4cc(C)c(C)cc4[N+](=O)[O-])o3)C2=O)cc1 ,14100,,
+CHEMBL3416536 ,O=C(O)CCSc1cc(NS(=O)(=O)c2c cc(Br)cc2)c2ccccc2c1O ,1000,,
+CHEMBL3235887 ,O=S(=O)(Nc1cc(Sc2nc[nH]n2)c(O)c2ccccc12)c1ccc(Br)cc1 ,1100,,
+CHEMBL3235890,O=S(=O)(Nc1cc(Sc2nnnn2-c2cccc c2)c(O)c2ccccc12)c1ccccc1,3100,,
+16,CC(=O)Nc1ccc2c(c1)CCC21NC(=O)N(CC(=O)N(Cc2ccccc2)C(C)C2CC2)C1=O ,780,,
+CHEMBL3421960 ,CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C\Cc1ccc(Cc2cc(C)c(C)cc2[N+](=O)[O-])o1 ,1600,,
+CHEMBL3774655 ,CCC(=O)N1CCOc2c(cc(-c3ccc(OC)c(OC)c3)cc2OC[C@H]2CCCN(C)C2)C1 ,,167,
+CHEMBL1331211 ,O=C(O)CSc1cc(NS(=O)(=O)c2cc c(Br)cc2)c2ccccc2c1O ,330,,
+CHEMBL1823895 ,COc1ccc(S(=O)(=O)N(Cc2ccc3c( c2)C=CC(C)(C)O3)c2ccccc2)cc1OC ,,345,
+CHEMBL222328 ,O=C1/C(=C/c2ccc(O)c(Br)c2)CCC/C1=C\c1ccc(O)c(Br)c1 ,5000,,
+CHEMBL3780429 ,CCN1C(=O)c2cccc3c(NS(=O)(=O)c4cc(Br)ccc4OC)ccc1c23 ,,,3.5
+11,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3cc(C(N)=O)ccc32)C1=O ,4860,,
+12,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3c(C(N)=O)cccc32)C1=O ,17900,,
+15,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3cc(C4CC4)ccc32)C1=O ,1710,,
+CHEMBL3421944,COc1ccc(C=C2C(=O)N(Cc3ccccc3)C(=O)N(Cc3ccccc3)C2=O)cc1OC ,11400,,
+CHEMBL2030281 ,O=S(=O)(Nc1cc(Sc2ncn[nH]2)c(O)c2ccccc12)c1ccc2ccccc2c1 ,510,,
+13,COc1ccc2c(c1)CCC21NC(=O)N(CC(=O)N(Cc2ccccc2)C(C)C2CC2)C1=O ,1600,,
+14,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3cc(CO)ccc32)C1=O ,14000,,
+CHEMBL3809636 ,CCCOc1ccc2c(c1)c(-c1c(C)n(C(=O)c3ccc(OC)cc3)[nH]c1=O)cn2C(C)=O ,,,2.7
+CHEMBL3416525 ,O=C1CC(Sc2nnc(-c3ccccc3O)o2)C(=O)N1c1ccc(Br)cc1 ,3700,,
+CHEMBL3734823 ,CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C/c1ccc(-c2cc(C)c(C)cc2[N+](=O)[O-])o1 ,320,,
+CHEMBL1797936 ,CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C\c1ccc(-c2cc(C)c(C)cc2[N+](=O)[O-])o1 ,6800,,
+1,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC(Cc2c[nH]c3ccccc23)C1=O ,5100,,
+9,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3cc(C#N)ccc32)C1=O ,2500,,
+CHEMBL3421943 ,COc1cc(C=C2C(=O)N(Cc3ccccc3 )C(=O)N(Cc3ccccc3)C2=O)ccc1O ,1500,,
+CHEMBL3421942 ,COc1ccc(C=C2C(=O)N(Cc3ccccc 3)C(=O)N(Cc3ccccc3)C2=O)cc1O ,5900,,
+CHEMBL3770322 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1 cc(COC2CCCCO2)cc(C(=O)O)c1 ,,,5.9
+CHEMBL3421961 ,Cc1cc(O)cc(C)c1C=C1C(=O)N(C c2ccccc2)C(=O)N(Cc2ccccc2)C1=O ,2900,,
+CHEMBL2031566 ,O=C(O)CSc1cc(NS(=O)(=O)c2cc c(C(=O)O)cc2)c2ccccc2c1O ,660,,
+CHEMBL3421941 ,O=C1C(=Cc2ccc(O)c(O)c2)C(=O) N(Cc2ccccc2)C(=O)N1Cc1ccccc1 ,1600,,
+CHEMBL3421945 ,COc1ccc(C=C2C(=O)N(Cc3ccccc3)C(=O)N(Cc3ccccc3)C2=O)cc1 ,8000,,
+5,C[C@H](C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)N[C@@]2(CCc3ccccc32)C1=O ,510,,
+7,C[C@H](C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)N[C@@]2(CCc3ccccc32)C1=O ,990,,
+4,CC(C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)NC2(CCc3ccccc32)C1=O ,1600,,
+6,C[C@H](C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)N[C@@]2(CCc3ccccc32)C1=O ,5060,,
+8,C[C@H](C1CC1)N(Cc1ccccc1)C(=O)CN1C(=O)N[C@@]2(CCc3ccccc32)C1=O ,13000,,
+CHEMBL3416526,COc1ccc(-c2nnc(SC3CC(=O)N(c4ccc(Cl)cc4)C3=O)[nH]2)cc1 ,2800,,
+CHEMBL3416537 ,O=S(=O)(Nc1cc(Cl)c(O)c2ccccc12)c1ccc(Br)cc1 ,1800,,
+CHEMBL3421940 ,O=C1C(=Cc2ccc(O)cc2)C(=O)N(Cc2ccccc2)C(=O)N1Cc1ccccc1 ,2100,,
+CHEMBL3421905 ,O=C(c1ccccc1)C1C(=O)N(Cc2ccc cc2)C(=O)N(Cc2ccccc2)C1=O ,,2400,
+CHEMBL3809158 ,CC(=O)n1cc(-c2c(C)n(S(C)(=O)= O)n(S(C)(=O)=O)c2=O)c2ccccc21 ,,,2.7
+CHEMBL3416317 ,O=[N+]([O-])c1cc(Br)c2nsnc2c1Sc1ncnc2[nH]cnc12 ,2200,,
+2,NS(=O)(=O)c1ccc(NC(=O)CN2C(=O)SC(=C3CCCCC3)C2=O)cc1 ,11500,,
+CHEMBL3133807 ,CCOC(=O)Nc1cc(-c2ccc(C)c(NS(C)(=O)=O)c2)nn2c(C)nnc12 ,,,5.4
+CHEMBL3770969 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1 cc(C(=O)O)cc(-c2ccncc2)c1 ,,,3.9
+CHEMBL2163598 ,COc1cc(CN(C(C)C)S(=O)(=O)c2 ccccn2)cc2c1OC(C)(C)C=C2 ,5000,,
+CHEMBL2163599 ,CC(C)CN(Cc1cc(O)c2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1ccccn1 ,4000,,
+CHEMBL2163603 ,CC(C)CN(Cc1cc(O)c2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1ccncc1 ,4000,,
+CHEMBL3416552 ,CCN(CC)c1ccc2c(C)c(-c3ccc(N4 C(=O)C=CC4=O)cc3)c(=O)oc2c1 ,260,,
+CHEMBL2163597 ,CC1(C)C=Cc2cc(CN(C3CCCC3)S(=O)(=O)c3ccccn3)ccc2O1 ,4000,,
+CHEMBL3421930 ,O=C1C(Cc2ccccc2)C(=O)N(Cc2c cccc2)C(=O)N1Cc1ccccc1 ,,110,
+CHEMBL3780508 ,CCN1C(=O)c2cccc3c(S(=O)(=O)Nc4ccccc4C(=O)O)ccc1c23 ,,,6.4
+CHEMBL3770598 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1 cc(C(=O)O)cc(-c2ccoc2)c1 ,,,5.9
+CHEMBL2163602 ,CC(C)CN(Cc1ccc2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1nccs1 ,5000,,
+CHEMBL2163601 ,CC(C)CN(Cc1ccc2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1nccn1C ,5000,,
+CHEMBL3809876 ,COc1ccc(C(=O)n2[nH]c(=O)c(-c3 cn(C(C)=O)c4ccccc34)c2C)cc1 ,,,5.3
+CHEMBL3770500 ,CC(=O)c1ccc(OCc2ccccc2)c(NC(=O)c2cccc(C(=O)O)c2)c1 ,,,2.6
+CHEMBL3780059 ,CCN1C(=O)c2cccc3c(NS(=O)(=O)c4ccc(F)cc4F)ccc1c23 ,,,4.5
+CHEMBL2163600 ,CC(C)CN(Cc1ccc2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1ccncc1 ,4000,,
+CHEMBL2163594 ,CC(C)CN(Cc1ccc2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1ccccn1 ,5000,,
+CHEMBL3814752 ,C[C@@H]1CC(=O)Nc2cccc(-c3c cc4c(c3)c(-c3cnn(C)c3)nn4C)c2N1 ,51,,
+CHEMBL3416307 ,O=C(O)c1ccc(-n2nnnc2SC2=CS(=O)(=O)c3ccccc32)cc1 ,7500,,
+CHEMBL2163595 ,CC1(C)C=Cc2cc(CN(CC3CC3)S(=O)(=O)c3ccccn3)ccc2O1 ,4000,,
+CHEMBL2163596 ,CC1(C)C=Cc2cc(CN(C3CCC3)S(=O)(=O)c3ccccn3)ccc2O1 ,4000,,
+CHEMBL3416321 ,O=[N+]([O-])c1c(Sc2nnnn2-c2ccccc2)cc(Cl)c2nonc12 ,1100,,
+CHEMBL3421950 ,COc1cc(C=C2C(=O)N(CC(C)C)C(=O)N(CC(C)C)C2=O)ccc1O ,4200,,
+CHEMBL2163592 ,CC(C)N(Cc1ccc2c(c1)C=CC(C)(C)O2)S(=O)(=O)c1ccccn1 ,4000,,
+CHEMBL3771341 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1 cc(COC)cc(C(=O)O)c1 ,,,4.6
+CHEMBL2163593 ,CC1(C)C=Cc2cc(CN(C3CC3)S(=O)(=O)c3ccccn3)ccc2O1 ,4000,,
+CHEMBL3780398 ,CCN1C(=O)c2cccc3c(S(=O)(=O)Nc4ccc(F)cc4)ccc1c23 ,,,3.3
+CHEMBL3780128 ,CCN1C(=O)c2cccc3c(NS(=O)(=O)c4ccc(F)cc4)ccc1c23 ,,,5.1
+CHEMBL3808729 ,CC(=O)n1cc(-c2c(C)n(C(=O)N3CCOCC3)[nH]c2=O)c2ccccc21 ,,,2.5
+CHEMBL140 ,COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O ,6500,,
+CHEMBL116438 ,COc1cc(/C=C/C(=O)/C=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O ,6500,,
+CHEMBL1795608 ,O=c1c2cc([N+](=O)[O-])cnc2sn1c1ccc(Oc2ccccc2)cc1 ,2430,,
+CHEMBL3416528 ,Cc1ccc(N2C(=O)CC(Sc3nncn3-c3ccccc3)C2=O)cc1 ,9800,,
+CHEMBL1795613 ,CCCCc1ccc(-n2sc3ncc(-c4ccccc4)cc3c2=O)cc1 ,8280,,
+CHEMBL1392315 ,O=c1c2ccccc2sn1-c1ccc(S(=O)(=O)N2CCCC2)cc1 ,8030,,
+CHEMBL3740819 ,CC(=O)c1cc(-c2cccc3nccn23)c2cc(N3CCOCC3)ccn12 ,,,2
+CHEMBL3421948,CC(C)CN1C(=O)C(=Cc2ccc(O)c(O)c2)C(=O)N(CC(C)C)C1=O,5400,,
+CHEMBL3781471 ,CCN1C(=O)c2cccc3c(S(=O)(=O)NC4CCCCC4)ccc1c23 ,,,2.4
+CHEMBL3781254 ,CCN1C(=O)c2cccc3c(NS(=O)(=O)C4CCCCC4)ccc1c23 ,,,4.7
+CHEMBL3770330 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1 cc(CO)cc(C(=O)O)c1 ,,,3.7
+CHEMBL3769693 ,CC(=O)c1ccc(OCC(C)C)c(NC(=O)c2cccc(C(=O)O)c2)c1 ,,,3
+CHEMBL3769591 ,CC(=O)c1ccc(OCC2CC2)c(NC(=O)c2cccc(C(=O)O)c2)c1 ,,,3.6
+CHEMBL3771132 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1cccc(-n2cnnn2)c1 ,,,2.6
+CHEMBL33778 ,CCCCCCCCCCCCCCCc1cccc(O)c1C(=O)O ,4150,,
+CHEMBL3421947 ,CC(C)CN1C(=O)C(=Cc2ccc(O)cc2)C(=O)N(CC(C)C)C1=O ,8500,,
+CHEMBL3416316 ,O=S1(=O)C=C(Sc2nnc(-c3ccncc3)o2)c2ccccc21 ,6200,,
+CHEMBL455368 ,C=CC/C=C\C/C=C\CCCCCCCc1cccc(O)c1C(=O)O ,5000,,
+CHEMBL3416315 ,O=S1(=O)C=C(Sc2nnnn2-c2ccccc2)c2ccccc21 ,6200,,
+CHEMBL1602759 ,O=S1(=O)C=C(Sc2nnc(-c3ccccc3)o2)c2ccccc21 ,11000,,
+CHEMBL3771234 ,CCCOc1ccc(C(C)=O)cc1NC(=O)c1cccc(C(=O)O)c1 ,,,3.4
+CHEMBL3780901 ,CCCCS(=O)(=O)Nc1ccc2c3c(cccc13)C(=O)N2CC ,,,3.2
+CHEMBL3770150 ,CCOc1ccc(C(C)=O)cc1NC(=O)c1cccc(C(=O)O)c1 ,,,3.4
+CHEMBL3771036 ,CC(=O)c1ccc(C2CC2)c(NC(=O)c2cccc(C(=O)O)c2)c1 ,,,3.1
+CHEMBL3775671 ,COc1ccc(S(=O)(=O)ON=C2C=C(C)C(=O)C(C)=C2)cc1 ,1980,,
+CHEMBL1795619 ,O=c1c2cccnc2sn1Cc1ccc(Cl)c(Cl)c1 ,5320,,
+CHEMBL1795624 ,O=c1c2cccnc2sn1Cc1ccc(C(F)(F)F)cc1 ,5920,,
+CHEMBL1720939 ,CCOC(=O)c1ccc(-n2sc3ccccc3c2=O)cc1,12900,,
+CHEMBL2087789 ,Cc1cc(C)c2c(=O)n(C(=O)c3cccs3)sc2n1 ,6740,,
+CHEMBL1600114 ,CNc1nc(-c2ccccc2)[n+](-c2ccc(C)cc2)s1 ,2000,,
+CHEMBL3809834 ,CC(=O)n1cc(-c2c(C)nn3c2OCC3)c2ccccc21 ,,,2.2
+CHEMBL1795618 ,O=c1c2cccnc2sn1Cc1ccc(Cl)cc1 ,5740,,
+CHEMBL1385343 ,Cc1ccc(-c2nc(N)s[n+]2-c2ccccc2)cc1 ,1800,,
+CHEMBL3416335 ,CNc1nc(-c2ccccc2)[n+](-c2ccccc2)s1 ,1900,,
+CHEMBL318367 ,O=c1c2cccnc2sn1-c1ccc(Cl)cc1 ,5710,,
+CHEMBL491092 ,O=c1ccsn1-c1ccc(N2CCOCC2)cc1 ,9900,,
+CHEMBL1733695 ,Cc1csc(-n2sc3ccccc3c2=O)n1 ,8140,,
+CHEMBL106011 ,O=c1c2cccnc2sn1-c1ccc(F)cc1 ,5350,,
+CHEMBL1391552 ,O=c1c2ccccc2sn1-c1nccs1 ,9350,,
+CHEMBL295316 ,CC1=CC(=O)c2c(O)cccc2C1=O ,2000,2000,
+CHEMBL499919 ,O=c1ccsn1-c1ccncc1 ,3000,,
+CHEMBL487498 ,O=c1ccsn1-c1cccnc1 ,14400,,
